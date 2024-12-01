@@ -1,7 +1,7 @@
-# Calm Space - Mental Health Chatbot
+# Mind Care - Mental Health Chatbot
 
 ## Overview
-Calm Space is a mental health chatbot designed to provide support and resources for users. The chatbot can respond to user inquiries related to mental health topics using a pre-trained model and can be easily deployed using Flask for the backend and HTML,CSS,JavaScript for the frontend.
+Mind care is a mental health chatbot designed to provide support and resources for users. The chatbot can respond to user inquiries related to mental health topics using a pre-trained model and can be easily deployed using Flask for the backend and HTML,CSS,JavaScript for the frontend.
 
 ![Chatbot](bot1.png)
 
@@ -29,5 +29,3 @@ static/js/bot.js: JavaScript file managing chat interactions and user input.<br>
 static/js/bot.js: JavaScript file managing chat interactions and user input.<br>
 templates/index.html: HTML file providing the chat interface.<br>
 
-## Contact
-For any questions or feedback, please reach out to nehaannie2002@gmail.com
