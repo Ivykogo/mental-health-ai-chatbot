@@ -3,8 +3,6 @@
 ## Overview
 Mind care is a mental health chatbot designed to provide support and resources for users. The chatbot can respond to user inquiries related to mental health topics using a pre-trained model and can be easily deployed using Flask for the backend and HTML,CSS,JavaScript for the frontend.
 
-![Chatbot](bot1.png)
-
 ## Features
 User Interaction: Users can send messages to the chatbot and receive responses based on the trained model.
 Mental Health Support: The bot is designed to handle various intents related to mental health, including anxiety, depression, self-care, and more.
